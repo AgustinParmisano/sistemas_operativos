@@ -19,3 +19,5 @@ for f in "${list[@]}"; do
 done
 
 echo "Lista de archivos inversa ${newlist[*]}"
+
+exit 0
